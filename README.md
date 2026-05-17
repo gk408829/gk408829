@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gaurav
-- 👀 I’m interested in AI4Science, SciML, Geometric Deep Learning, and Topological Deep Learning.
+- 👀 I’m interested in AI4Science, SciML, Geometric DL, Topological DL, and Physics-Informed DL.
 - 🌱 I’m currently in M2 studying Data Science and Artificial Intelligence at Université Côte d'Azur in Sophia-Antipolis, France.
 - 💞️ I’m looking to collaborate on projects, and also looking for internships to hone my data and AI skills
 - 📫 Feel free to reach out!
